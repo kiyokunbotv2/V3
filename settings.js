@@ -41,7 +41,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //owmner v card
 //________________________________________________________________________________________________________
-global.ytname = process.env.YT_NAME || "YT: Kiyo ain't simp" //ur yt chanel name
+global.ytname = process.env.YT_NAME || "YT: _KiyoAintSimp_" //ur yt chanel name
 //________________________________________________________________________________________________________
 global.socialm = process.env.MEDIA || "GitHub: kiyokunbotv2" //ur github or insta name
 //________________________________________________________________________________________________________
@@ -62,9 +62,9 @@ global.wagc = process.env.GL_PUSH || "https://chat.whatsapp.com/DLoSO4MHC6DANrsv
 //________________________________________________________________________________________________________
 global.themeemoji = process.env.GL_EMOJI || '👿'
 //________________________________________________________________________________________________________
-global.wm = process.env.GL_WM || "© Xʟɪᴄᴏɴ-Iɴᴄ"
+global.wm = process.env.GL_WM || "🤖9.9% Bots🤖"
 //________________________________________________________________________________________________________
-global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLICON-V3-MD' //script link
+global.botscript = process.env.GL_SC || 'https://github.com/kiyokunbotv2/XLICON-V3-MD' //script link
 //________________________________________________________________________________________________________
 global.packname = process.env.PACK_NAME || "9.9% Bots"
 //________________________________________________________________________________________________________
