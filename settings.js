@@ -56,9 +56,9 @@ global.ownernumber = process.env.SUDO || '916009259402' //ur owner number
 //________________________________________________________________________________________________________
 global.ownername = process.env.SUDO_NAME || '9.9%' //ur owner name
 //________________________________________________________________________________________________________
-global.websitex = process.env.YT_LINK || "https://youtube.com/@s4salmanyt"
+global.websitex = process.env.YT_LINK || "https://www.youtube.com/@_KiyoAintSimp_"
 //________________________________________________________________________________________________________
-global.wagc = process.env.GL_PUSH || "https://whatsapp.com/channel/0029VaINgEZK0IBaK1nDtE3f"
+global.wagc = process.env.GL_PUSH || "https://chat.whatsapp.com/DLoSO4MHC6DANrsv3ZuXT5"
 //________________________________________________________________________________________________________
 global.themeemoji = process.env.GL_EMOJI || '👿'
 //________________________________________________________________________________________________________
